@@ -5,7 +5,7 @@ Meetanshi brings  ***[Magento 2 Canada Post Shipping](https://meetanshi.com/mage
 Render shipping services from Canada to all around the globe.The extension allows calculating live shipping cost based on shipping source and delivery destination. Canada Post accurately estimates shipping charges on the ground of the details recorded like cost request, postal code, shipping label printing, cancellation, handling charges, pick-up & delivering timings, etc.
 
 
-##  Benefits of using Magento 2 Canada Post Shipping:
+##  Benefits of Magento 2 Canada Post Shipping Extension:
 
 * Accurately calculate shipping costs by setting rate type, container type, and size.
 
