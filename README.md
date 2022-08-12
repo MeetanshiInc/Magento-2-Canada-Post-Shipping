@@ -3,9 +3,9 @@
 Meetanshi brings  ***[Magento 2 Canada Post Shipping](https://meetanshi.com/magento-2-canada-post-shipping.html)*** extension to integrate Magento 2 with Canada Post Shipping API as it is the favorable shipping method by Canadian customers of E-commerce.Get the most out of Canada Post Shipping API.
 
 Render shipping services from Canada to all around the globe.The extension allows calculating live shipping cost based on shipping source and delivery destination. Canada Post accurately estimates shipping charges on the ground of the details recorded like cost request, postal code, shipping label printing, cancellation, handling charges, pick-up & delivering timings, etc.
-**Features of Magento 2 Sage Pay Integration:**
 
-***Benefits of using Magento 2 Canada Post Shipping:***
+
+**Benefits of using Magento 2 Canada Post Shipping:**
 
 * Accurately calculate shipping costs by setting rate type, container type, and size.
 
